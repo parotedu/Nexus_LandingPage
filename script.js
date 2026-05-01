@@ -15,7 +15,7 @@ const translations = {
         hero_title_1: "Transforming Vision into",
         hero_title_2: "Educational Excellence",
         hero_subtitle: "An academy redefining learning through specialized courses, an advanced platform, and immersive internships.",
-        hero_btn_explore: "Explore Our Story",
+        hero_btn_explore: "Register with us",
         hero_btn_sectors: "Our Services",
         
         // About
@@ -73,7 +73,7 @@ const translations = {
         hero_title_1: "نحول الرؤية إلى",
         hero_title_2: "تميز تعليمي",
         hero_subtitle: "أكاديمية تعيد صياغة التعلم من خلال دورات متخصصة، منصة متطورة، وتدريب عملي مكثف.",
-        hero_btn_explore: "اكتشف قصتنا",
+        hero_btn_explore: "سجل معنا",
         hero_btn_sectors: "خدماتنا",
         
         // About
