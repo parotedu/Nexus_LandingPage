@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /private/
-Disallow: /tmp/
-
-Sitemap: https://nexus.parotcorp.com/sitemap.xml
-Content-Signal: ai-train=yes, search=yes, ai-input=yes
